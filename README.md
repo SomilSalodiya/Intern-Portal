@@ -3,7 +3,7 @@
 A simple **HTML + CSS-based intern portal** created as part of internship assignment.
 
 ## 🌐 Live Demo
-👉 [Click here to view the live project] (https://somilsalodiya.github.io/Intern-Portal//)
+👉 [Click here to view the live project] https://somilsalodiya.github.io/Intern-Portal//
 
 ---
 

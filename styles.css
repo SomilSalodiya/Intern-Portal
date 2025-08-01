@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.container {
+  margin-top: 50px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.info, .rewards {
+  margin-top: 20px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  padding: 5px 0;
+}
+
+table.leaderboard {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+table.leaderboard th, table.leaderboard td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+table.leaderboard th {
+  background-color: #4caf50;
+  color: white;
+}
